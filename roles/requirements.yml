@@ -1,2 +1,2 @@
-- src: http://chris:topher@[FEDC:BA98:7654:3210:FEDC:BA98:7654:3210]/scm/project/ansible_project-puppet_rollout.git
+#- src: http://chris:topher@[FEDC:BA98:7654:3210:FEDC:BA98:7654:3210]/scm/project/ansible_project-puppet_rollout.git
 - src: http://chris:topher@giggitygiggityoooof.com/scm/project/ansible_project-puppet_rollout.git
