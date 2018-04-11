@@ -1,0 +1,5 @@
+- hosts: localhost
+  gather_facts: false
+  setup:
+    - debug:
+        msg: "Hello World"
